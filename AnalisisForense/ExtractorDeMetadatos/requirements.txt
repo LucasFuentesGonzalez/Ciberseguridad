@@ -1,0 +1,5 @@
+# Librerías necesarias para el proyecto
+python-dotenv
+PyPDF2
+python-docx
+exifread
